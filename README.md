@@ -26,11 +26,13 @@ It leverages modern libraries like `BeautifulSoup` and `requests` to fetch and e
 
 ## 📂 Project Structure
 
+```
 ecp-project-ai-webscarper/
 │
 ├── scraper.py # Main script to perform scraping
 ├── requirements.txt # List of dependencies
 ├── README.md # Project documentation
+```
 
 ---
 
