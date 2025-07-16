@@ -43,8 +43,8 @@ ecp-project-ai-webscarper/
 ### Steps
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/souvik065/ecp-project-ai-webscarper.git
-cd ecp-project-ai-webscarper
+git clone [https://github.com/souvik065/ecp-project-ai-webscarper.git](https://github.com/souvik065/automated-product-uploader-for-meesho.git)
+cd automated-product-uploader-for-meesho
 ```
 
 
