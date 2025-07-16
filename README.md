@@ -26,4 +26,33 @@ It leverages modern libraries like `BeautifulSoup` and `requests` to fetch and e
 
 ## 📂 Project Structure
 
+ecp-project-ai-webscarper/
+│
+├── scraper.py # Main script to perform scraping
+├── requirements.txt # List of dependencies
+├── README.md # Project documentation
+
+---
+
+## 🔧 Installation
+
+### Prerequisites
+- Python 3.x
+- pip
+
+### Steps
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/souvik065/ecp-project-ai-webscarper.git
+cd ecp-project-ai-webscarper
+```
+
+
+ 2️⃣ Install the dependencies:
+```
+pip install -r requirements.txt
+```
+
+
+
 
